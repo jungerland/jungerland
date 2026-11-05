@@ -1,11 +1,11 @@
 # Jay Ungerland
 
-Senior PM for B2B SaaS. Nearly 7 years at Xero, on a cloud accounting platform with 5M subscribers. Former engineer who now builds working AI agents to test product ideas hands-on.
+Senior PM for B2B SaaS. Nearly 7 years at Xero, a small-business accounting platform with 5M subscribers. Former engineer who now builds AI products and AI agents.
 
 ## Problems I work on
 - Deciding when an AI agent can act on its own, and when a person has to decide
 - How to measure that before a customer relies on it
-- Fintech, compliance, and legal work: where a wrong answer is expensive
+- Fintech, compliance, and legal domains: where a wrong answer is expensive
 
 ## Projects
 
